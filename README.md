@@ -9,3 +9,7 @@ Instruction:
 the log recording will start with all incoming calls to the server
 4. In other terminals type "links 3.3.0.1"
 the command opens the site page on the server
+
+
+
+![alt text](https://media.giphy.com/media/MBUF3bfBInNx0co5bK/giphy.gif)
